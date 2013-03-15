@@ -23,6 +23,10 @@
 		343FF47E16F2FC1D007E2732 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 343FF45916F2FC1D007E2732 /* Foundation.framework */; };
 		343FF48616F2FC1D007E2732 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 343FF48416F2FC1D007E2732 /* InfoPlist.strings */; };
 		343FF48916F2FC1D007E2732 /* slidenavigationTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 343FF48816F2FC1D007E2732 /* slidenavigationTests.m */; };
+		343FF49416F2FD74007E2732 /* SlideNavigationFlowLayout.m in Sources */ = {isa = PBXBuildFile; fileRef = 343FF49316F2FD74007E2732 /* SlideNavigationFlowLayout.m */; };
+		343FF49716F2FDAE007E2732 /* SlideNavigationViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 343FF49616F2FDAE007E2732 /* SlideNavigationViewController.m */; };
+		343FF49916F2FF6F007E2732 /* CellView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 343FF49816F2FF6F007E2732 /* CellView.xib */; };
+		343FF49B16F3143F007E2732 /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 343FF49A16F3143F007E2732 /* QuartzCore.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -58,6 +62,12 @@
 		343FF48516F2FC1D007E2732 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		343FF48716F2FC1D007E2732 /* slidenavigationTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = slidenavigationTests.h; sourceTree = "<group>"; };
 		343FF48816F2FC1D007E2732 /* slidenavigationTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = slidenavigationTests.m; sourceTree = "<group>"; };
+		343FF49216F2FD74007E2732 /* SlideNavigationFlowLayout.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SlideNavigationFlowLayout.h; sourceTree = "<group>"; };
+		343FF49316F2FD74007E2732 /* SlideNavigationFlowLayout.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SlideNavigationFlowLayout.m; sourceTree = "<group>"; };
+		343FF49516F2FDAE007E2732 /* SlideNavigationViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SlideNavigationViewController.h; sourceTree = "<group>"; };
+		343FF49616F2FDAE007E2732 /* SlideNavigationViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SlideNavigationViewController.m; sourceTree = "<group>"; };
+		343FF49816F2FF6F007E2732 /* CellView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = CellView.xib; sourceTree = "<group>"; };
+		343FF49A16F3143F007E2732 /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,6 +75,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				343FF49B16F3143F007E2732 /* QuartzCore.framework in Frameworks */,
 				343FF45816F2FC1D007E2732 /* UIKit.framework in Frameworks */,
 				343FF45A16F2FC1D007E2732 /* Foundation.framework in Frameworks */,
 				343FF45C16F2FC1D007E2732 /* CoreGraphics.framework in Frameworks */,
@@ -87,6 +98,7 @@
 		343FF44B16F2FC1D007E2732 = {
 			isa = PBXGroup;
 			children = (
+				343FF49A16F3143F007E2732 /* QuartzCore.framework */,
 				343FF45D16F2FC1D007E2732 /* slidenavigation */,
 				343FF48116F2FC1D007E2732 /* slidenavigationTests */,
 				343FF45616F2FC1D007E2732 /* Frameworks */,
@@ -119,10 +131,15 @@
 			children = (
 				343FF46616F2FC1D007E2732 /* AppDelegate.h */,
 				343FF46716F2FC1D007E2732 /* AppDelegate.m */,
-				343FF46F16F2FC1D007E2732 /* MainStoryboard.storyboard */,
+				343FF49516F2FDAE007E2732 /* SlideNavigationViewController.h */,
+				343FF49616F2FDAE007E2732 /* SlideNavigationViewController.m */,
+				343FF49216F2FD74007E2732 /* SlideNavigationFlowLayout.h */,
+				343FF49316F2FD74007E2732 /* SlideNavigationFlowLayout.m */,
 				343FF47216F2FC1D007E2732 /* ViewController.h */,
 				343FF47316F2FC1D007E2732 /* ViewController.m */,
+				343FF46F16F2FC1D007E2732 /* MainStoryboard.storyboard */,
 				343FF45E16F2FC1D007E2732 /* Supporting Files */,
+				343FF49816F2FF6F007E2732 /* CellView.xib */,
 			);
 			path = slidenavigation;
 			sourceTree = "<group>";
@@ -236,6 +253,7 @@
 				343FF46C16F2FC1D007E2732 /* Default@2x.png in Resources */,
 				343FF46E16F2FC1D007E2732 /* Default-568h@2x.png in Resources */,
 				343FF47116F2FC1D007E2732 /* MainStoryboard.storyboard in Resources */,
+				343FF49916F2FF6F007E2732 /* CellView.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -273,6 +291,8 @@
 				343FF46416F2FC1D007E2732 /* main.m in Sources */,
 				343FF46816F2FC1D007E2732 /* AppDelegate.m in Sources */,
 				343FF47416F2FC1D007E2732 /* ViewController.m in Sources */,
+				343FF49416F2FD74007E2732 /* SlideNavigationFlowLayout.m in Sources */,
+				343FF49716F2FDAE007E2732 /* SlideNavigationViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
