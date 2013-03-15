@@ -17,7 +17,6 @@
 		343FF46C16F2FC1D007E2732 /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 343FF46B16F2FC1D007E2732 /* Default@2x.png */; };
 		343FF46E16F2FC1D007E2732 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 343FF46D16F2FC1D007E2732 /* Default-568h@2x.png */; };
 		343FF47116F2FC1D007E2732 /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 343FF46F16F2FC1D007E2732 /* MainStoryboard.storyboard */; };
-		343FF47416F2FC1D007E2732 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 343FF47316F2FC1D007E2732 /* ViewController.m */; };
 		343FF47C16F2FC1D007E2732 /* SenTestingKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 343FF47B16F2FC1D007E2732 /* SenTestingKit.framework */; };
 		343FF47D16F2FC1D007E2732 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 343FF45716F2FC1D007E2732 /* UIKit.framework */; };
 		343FF47E16F2FC1D007E2732 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 343FF45916F2FC1D007E2732 /* Foundation.framework */; };
@@ -27,6 +26,8 @@
 		343FF49716F2FDAE007E2732 /* SlideNavigationViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 343FF49616F2FDAE007E2732 /* SlideNavigationViewController.m */; };
 		343FF49916F2FF6F007E2732 /* CellView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 343FF49816F2FF6F007E2732 /* CellView.xib */; };
 		343FF49B16F3143F007E2732 /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 343FF49A16F3143F007E2732 /* QuartzCore.framework */; };
+		343FF49E16F38D8F007E2732 /* ViewHelpers.m in Sources */ = {isa = PBXBuildFile; fileRef = 343FF49D16F38D8F007E2732 /* ViewHelpers.m */; };
+		343FF4A116F38F8E007E2732 /* CellView.m in Sources */ = {isa = PBXBuildFile; fileRef = 343FF4A016F38F8E007E2732 /* CellView.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,8 +55,6 @@
 		343FF46B16F2FC1D007E2732 /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
 		343FF46D16F2FC1D007E2732 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
 		343FF47016F2FC1D007E2732 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
-		343FF47216F2FC1D007E2732 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		343FF47316F2FC1D007E2732 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		343FF47A16F2FC1D007E2732 /* slidenavigationTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = slidenavigationTests.octest; sourceTree = BUILT_PRODUCTS_DIR; };
 		343FF47B16F2FC1D007E2732 /* SenTestingKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SenTestingKit.framework; path = Library/Frameworks/SenTestingKit.framework; sourceTree = DEVELOPER_DIR; };
 		343FF48316F2FC1D007E2732 /* slidenavigationTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "slidenavigationTests-Info.plist"; sourceTree = "<group>"; };
@@ -68,6 +67,10 @@
 		343FF49616F2FDAE007E2732 /* SlideNavigationViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SlideNavigationViewController.m; sourceTree = "<group>"; };
 		343FF49816F2FF6F007E2732 /* CellView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = CellView.xib; sourceTree = "<group>"; };
 		343FF49A16F3143F007E2732 /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
+		343FF49C16F38D8E007E2732 /* ViewHelpers.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewHelpers.h; sourceTree = "<group>"; };
+		343FF49D16F38D8F007E2732 /* ViewHelpers.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewHelpers.m; sourceTree = "<group>"; };
+		343FF49F16F38F8E007E2732 /* CellView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CellView.h; sourceTree = "<group>"; };
+		343FF4A016F38F8E007E2732 /* CellView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CellView.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -135,11 +138,13 @@
 				343FF49616F2FDAE007E2732 /* SlideNavigationViewController.m */,
 				343FF49216F2FD74007E2732 /* SlideNavigationFlowLayout.h */,
 				343FF49316F2FD74007E2732 /* SlideNavigationFlowLayout.m */,
-				343FF47216F2FC1D007E2732 /* ViewController.h */,
-				343FF47316F2FC1D007E2732 /* ViewController.m */,
 				343FF46F16F2FC1D007E2732 /* MainStoryboard.storyboard */,
-				343FF45E16F2FC1D007E2732 /* Supporting Files */,
+				343FF49F16F38F8E007E2732 /* CellView.h */,
+				343FF4A016F38F8E007E2732 /* CellView.m */,
 				343FF49816F2FF6F007E2732 /* CellView.xib */,
+				343FF49C16F38D8E007E2732 /* ViewHelpers.h */,
+				343FF49D16F38D8F007E2732 /* ViewHelpers.m */,
+				343FF45E16F2FC1D007E2732 /* Supporting Files */,
 			);
 			path = slidenavigation;
 			sourceTree = "<group>";
@@ -290,9 +295,10 @@
 			files = (
 				343FF46416F2FC1D007E2732 /* main.m in Sources */,
 				343FF46816F2FC1D007E2732 /* AppDelegate.m in Sources */,
-				343FF47416F2FC1D007E2732 /* ViewController.m in Sources */,
 				343FF49416F2FD74007E2732 /* SlideNavigationFlowLayout.m in Sources */,
 				343FF49716F2FDAE007E2732 /* SlideNavigationViewController.m in Sources */,
+				343FF49E16F38D8F007E2732 /* ViewHelpers.m in Sources */,
+				343FF4A116F38F8E007E2732 /* CellView.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

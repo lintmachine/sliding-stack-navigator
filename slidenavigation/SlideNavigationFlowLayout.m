@@ -12,12 +12,6 @@
 
 - (NSArray*) layoutAttributesForElementsInRect:(CGRect)rect
 {
-//    NSArray* layoutAttributes = [super layoutAttributesForElementsInRect:rect];
-//    for (UICollectionViewLayoutAttributes* attributes in layoutAttributes)
-//    {
-//        [self applyCellStackingTransform:attributes];
-//    }
-    
     NSInteger numCells = [self.collectionView numberOfItemsInSection:0];
     
     NSMutableArray* layoutAttributes = [NSMutableArray arrayWithCapacity:numCells];

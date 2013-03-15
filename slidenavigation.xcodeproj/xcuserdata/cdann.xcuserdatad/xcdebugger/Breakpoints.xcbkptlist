@@ -8,11 +8,11 @@
          ignoreCount = "0"
          continueAfterRunningActions = "No"
          filePath = "slidenavigation/SlideNavigationFlowLayout.m"
-         timestampString = "385030486.769461"
+         timestampString = "385060121.215653"
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
-         startingLineNumber = "42"
-         endingLineNumber = "42"
+         startingLineNumber = "36"
+         endingLineNumber = "36"
          landmarkName = "-applyCellStackingTransform:"
          landmarkType = "5">
       </FileBreakpoint>

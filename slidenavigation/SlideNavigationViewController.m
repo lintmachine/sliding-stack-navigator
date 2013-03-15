@@ -7,6 +7,7 @@
 //
 
 #import "SlideNavigationViewController.h"
+#import "ViewHelpers.h"
 
 @interface SlideNavigationViewController ()
 
@@ -101,7 +102,7 @@
         cell.backgroundColor = [UIColor redColor];
     else
         cell.backgroundColor = [UIColor purpleColor];
-    
+        
     return cell;
 }
 
