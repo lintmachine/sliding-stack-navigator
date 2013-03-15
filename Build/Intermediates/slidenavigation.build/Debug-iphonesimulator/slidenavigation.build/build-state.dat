@@ -1,548 +1,0 @@
-Tslidenavigation
-v5
-r1
-cCheck dependencies
-cProcessInfoPlistFile /Users/cdann/Development/slidenavigation/Build/Products/Debug-iphonesimulator/slidenavigation.app/Info.plist slidenavigation/slidenavigation-Info.plist
-cProcessPCH /Users/cdann/Development/slidenavigation/Build/Intermediates/PrecompiledHeaders/slidenavigation-Prefix-awigtaodbkpgofbftzszwhdscimx/slidenavigation-Prefix.pch.pth slidenavigation/slidenavigation-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/Objects-normal/i386/AppDelegate.o /Users/cdann/Development/slidenavigation/slidenavigation/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/Objects-normal/i386/main.o /Users/cdann/Development/slidenavigation/slidenavigation/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/Objects-normal/i386/SlideNavigationFlowLayout.o /Users/cdann/Development/slidenavigation/slidenavigation/SlideNavigationFlowLayout.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/Objects-normal/i386/SlideNavigationViewController.o /Users/cdann/Development/slidenavigation/slidenavigation/SlideNavigationViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/Objects-normal/i386/ViewHelpers.o /Users/cdann/Development/slidenavigation/slidenavigation/ViewHelpers.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/Objects-normal/i386/CellView.o /Users/cdann/Development/slidenavigation/slidenavigation/CellView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cLd /Users/cdann/Development/slidenavigation/Build/Products/Debug-iphonesimulator/slidenavigation.app/slidenavigation normal i386
-cGenerateDSYMFile /Users/cdann/Development/slidenavigation/Build/Products/Debug-iphonesimulator/slidenavigation.app.dSYM /Users/cdann/Development/slidenavigation/Build/Products/Debug-iphonesimulator/slidenavigation.app/slidenavigation
-cCopyStringsFile /Users/cdann/Development/slidenavigation/Build/Products/Debug-iphonesimulator/slidenavigation.app/en.lproj/InfoPlist.strings slidenavigation/en.lproj/InfoPlist.strings
-cCpResource slidenavigation/Default@2x.png Build/Products/Debug-iphonesimulator/slidenavigation.app/Default@2x.png
-cCpResource slidenavigation/Default.png Build/Products/Debug-iphonesimulator/slidenavigation.app/Default.png
-cCpResource slidenavigation/Default-568h@2x.png Build/Products/Debug-iphonesimulator/slidenavigation.app/Default-568h@2x.png
-cCompileStoryboard /Users/cdann/Development/slidenavigation/slidenavigation/en.lproj/MainStoryboard.storyboard
-cCompileXIB /Users/cdann/Development/slidenavigation/slidenavigation/CellView.xib
-cTouch /Users/cdann/Development/slidenavigation/Build/Products/Debug-iphonesimulator/slidenavigation.app
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk
-c000000005142A48B0000000000000110
-t1363321995
-s272
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
-c00000000510C35350000000000228FE0
-t1359754549
-s2265056
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
-c00000000510C353600000000003DDFA0
-t1359754550
-s4054944
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
-c00000000510C353600000000000015F7
-t1359754550
-s5623
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
-c00000000510C353900000000001D5750
-t1359754553
-s1922896
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
-c00000000510C353A0000000000000E8D
-t1359754554
-s3725
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
-c00000000510C353B0000000000AB6230
-t1359754555
-s11231792
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/usr/include/Availability.h
-c00000000510C35480000000000001B73
-t1359754568
-s7027
-
-N/Users/cdann/Development/slidenavigation/Build/Intermediates/PrecompiledHeaders/slidenavigation-Prefix-awigtaodbkpgofbftzszwhdscimx/slidenavigation-Prefix.pch.pth
-t1363331965
-s4678436
-
-N/Users/cdann/Development/slidenavigation/Build/Intermediates/PrecompiledHeaders/slidenavigation-Prefix-cszzruhhrcnytrekbbevipyxiqta/slidenavigation-Prefix.pch.pth
-t1363334301
-s4678492
-
-N/Users/cdann/Development/slidenavigation/Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/Objects-normal/i386/AppDelegate.o
-t1363331965
-s86488
-
-N/Users/cdann/Development/slidenavigation/Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/Objects-normal/i386/CellView.o
-t1363369140
-s71132
-
-N/Users/cdann/Development/slidenavigation/Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/Objects-normal/i386/SlideNavigationFlowLayout.o
-t1363367319
-s74828
-
-N/Users/cdann/Development/slidenavigation/Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/Objects-normal/i386/SlideNavigationViewController.o
-t1363368422
-s104568
-
-N/Users/cdann/Development/slidenavigation/Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/Objects-normal/i386/ViewController.o
-t1363331965
-s67540
-
-N/Users/cdann/Development/slidenavigation/Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/Objects-normal/i386/ViewHelpers.o
-t1363369504
-s74968
-
-N/Users/cdann/Development/slidenavigation/Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/Objects-normal/i386/main.o
-t1363331965
-s3300
-
-N/Users/cdann/Development/slidenavigation/Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/Objects-normal/i386/slidenavigation.LinkFileList
-c000000005143594A00000000000003DC
-t1363368266
-s988
-
-N/Users/cdann/Development/slidenavigation/Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/StaticAnalyzer/slidenavigation/slidenavigation/normal/i386/AppDelegate.plist
-t1363334301
-s382
-
-N/Users/cdann/Development/slidenavigation/Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/StaticAnalyzer/slidenavigation/slidenavigation/normal/i386/SlideNavigationFlowLayout.plist
-t1363334301
-s382
-
-N/Users/cdann/Development/slidenavigation/Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/StaticAnalyzer/slidenavigation/slidenavigation/normal/i386/SlideNavigationViewController.plist
-t1363334301
-s382
-
-N/Users/cdann/Development/slidenavigation/Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/StaticAnalyzer/slidenavigation/slidenavigation/normal/i386/ViewController.plist
-t1363334301
-s382
-
-N/Users/cdann/Development/slidenavigation/Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/StaticAnalyzer/slidenavigation/slidenavigation/normal/i386/main.plist
-t1363334301
-s382
-
-N/Users/cdann/Development/slidenavigation/Build/Products/Debug-iphonesimulator/slidenavigation.app
-t1363372188
-s340
-
-N/Users/cdann/Development/slidenavigation/Build/Products/Debug-iphonesimulator/slidenavigation.app.dSYM
-t1363369504
-s102
-
-N/Users/cdann/Development/slidenavigation/Build/Products/Debug-iphonesimulator/slidenavigation.app/CellView.nib
-t1363372188
-s1773
-
-N/Users/cdann/Development/slidenavigation/Build/Products/Debug-iphonesimulator/slidenavigation.app/Default-568h@2x.png
-t1363331965
-s18594
-
-N/Users/cdann/Development/slidenavigation/Build/Products/Debug-iphonesimulator/slidenavigation.app/Default.png
-t1363331965
-s6540
-
-N/Users/cdann/Development/slidenavigation/Build/Products/Debug-iphonesimulator/slidenavigation.app/Default@2x.png
-t1363331965
-s16107
-
-N/Users/cdann/Development/slidenavigation/Build/Products/Debug-iphonesimulator/slidenavigation.app/Info.plist
-t1363331964
-s945
-
-N/Users/cdann/Development/slidenavigation/Build/Products/Debug-iphonesimulator/slidenavigation.app/PkgInfo
-t1363331964
-s8
-
-N/Users/cdann/Development/slidenavigation/Build/Products/Debug-iphonesimulator/slidenavigation.app/en.lproj/InfoPlist.strings
-t1363331965
-s42
-
-N/Users/cdann/Development/slidenavigation/Build/Products/Debug-iphonesimulator/slidenavigation.app/en.lproj/MainStoryboard.storyboardc
-t1363372159
-s170
-
-N/Users/cdann/Development/slidenavigation/Build/Products/Debug-iphonesimulator/slidenavigation.app/slidenavigation
-t1363369504
-s43660
-
-N/Users/cdann/Development/slidenavigation/slidenavigation/AppDelegate.h
-c000000005142C49D0000000000000111
-t1363330205
-s273
-
-N/Users/cdann/Development/slidenavigation/slidenavigation/AppDelegate.m
-c000000005142C49D00000000000007D3
-t1363330205
-s2003
-
-N/Users/cdann/Development/slidenavigation/slidenavigation/CellView.h
-c00000000514359D600000000000000CB
-t1363368406
-s203
-
-N/Users/cdann/Development/slidenavigation/slidenavigation/CellView.m
-c0000000051435CB200000000000002CD
-t1363369138
-s717
-
-N/Users/cdann/Development/slidenavigation/slidenavigation/CellView.xib
-c000000005143689B0000000000003078
-t1363372187
-s12408
-
-N/Users/cdann/Development/slidenavigation/slidenavigation/Default-568h@2x.png
-c0000000050748B2300000000000048A2
-t1349815075
-s18594
-
-N/Users/cdann/Development/slidenavigation/slidenavigation/Default.png
-c0000000050748B23000000000000198C
-t1349815075
-s6540
-
-N/Users/cdann/Development/slidenavigation/slidenavigation/Default@2x.png
-c0000000050748B230000000000003EEB
-t1349815075
-s16107
-
-N/Users/cdann/Development/slidenavigation/slidenavigation/SlideNavigationFlowLayout.h
-c000000005142C5F300000000000000F3
-t1363330547
-s243
-
-N/Users/cdann/Development/slidenavigation/slidenavigation/SlideNavigationFlowLayout.m
-c0000000051435565000000000000061D
-t1363367269
-s1565
-
-N/Users/cdann/Development/slidenavigation/slidenavigation/SlideNavigationViewController.h
-c000000005142D18C0000000000000214
-t1363333516
-s532
-
-N/Users/cdann/Development/slidenavigation/slidenavigation/SlideNavigationViewController.m
-c00000000514359BA0000000000000E1B
-t1363368378
-s3611
-
-N/Users/cdann/Development/slidenavigation/slidenavigation/ViewController.h
-c000000005142C49D00000000000000D3
-t1363330205
-s211
-
-N/Users/cdann/Development/slidenavigation/slidenavigation/ViewController.m
-c000000005142C49D00000000000001E9
-t1363330205
-s489
-
-N/Users/cdann/Development/slidenavigation/slidenavigation/ViewHelpers.h
-c000000005143565B00000000000001C0
-t1363367515
-s448
-
-N/Users/cdann/Development/slidenavigation/slidenavigation/ViewHelpers.m
-c0000000051435E1D0000000000000433
-t1363369501
-s1075
-
-N/Users/cdann/Development/slidenavigation/slidenavigation/en.lproj/InfoPlist.strings
-c000000005142C49D000000000000002D
-t1363330205
-s45
-
-N/Users/cdann/Development/slidenavigation/slidenavigation/en.lproj/MainStoryboard.storyboard
-c00000000514369230000000000000B1A
-t1363372323
-s2842
-
-N/Users/cdann/Development/slidenavigation/slidenavigation/main.m
-c000000005142C49D000000000000014C
-t1363330205
-s332
-
-N/Users/cdann/Development/slidenavigation/slidenavigation/slidenavigation-Prefix.pch
-c000000005142C49D000000000000014D
-t1363330205
-s333
-i<Availability.h>
-i<UIKit/UIKit.h>
-i<Foundation/Foundation.h>
-
-Nslidenavigation/slidenavigation-Info.plist
-c000000005142C49D0000000000000527
-t1363330205
-s1319
-
-CAnalyze /Users/cdann/Development/slidenavigation/slidenavigation/AppDelegate.m
-s385027101.050841
-e385027101.124607
-r1
-xAnalyze
-x/Users/cdann/Development/slidenavigation/slidenavigation/AppDelegate.m
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Analyze /Users/cdann/Development/slidenavigation/slidenavigation/AppDelegate.mf92e0d1d0cf3b641^09fe1f1d0cf3b641^---0#0#0#-19%DVTDocumentLocation2@86"file://localhost/Users/cdann/Development/slidenavigation/slidenavigation/AppDelegate.m0000000000000000^4098"Analyze slidenavigation/AppDelegate.m    cd /Users/cdann/Development/slidenavigation    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -Xclang -analyzer-output=plist-multi-file -Xclang -analyzer-checker -Xclang security.insecureAPI.UncheckedReturn -Xclang -analyzer-checker -Xclang security.insecureAPI.getpw -Xclang -analyzer-checker -Xclang security.insecureAPI.gets -Xclang -analyzer-checker -Xclang security.insecureAPI.mkstemp -Xclang -analyzer-checker -Xclang security.insecureAPI.mktemp -Xclang -analyzer-disable-checker -Xclang security.insecureAPI.rand -Xclang -analyzer-disable-checker -Xclang security.insecureAPI.strcpy -Xclang -analyzer-checker -Xclang security.insecureAPI.vfork -mios-simulator-version-min=6.1 -iquote /Users/cdann/Development/slidenavigation/Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/slidenavigation-generated-files.hmap -I/Users/cdann/Development/slidenavigation/Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/slidenavigation-own-target-headers.hmap -I/Users/cdann/Development/slidenavigation/Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/slidenavigation-all-target-headers.hmap -iquote /Users/cdann/Development/slidenavigation/Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/slidenavigation-project-headers.hmap -I/Users/cdann/Development/slidenavigation/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/cdann/Development/slidenavigation/Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/DerivedSources/i386 -I/Users/cdann/Development/slidenavigation/Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/DerivedSources -F/Users/cdann/Development/slidenavigation/Build/Products/Debug-iphonesimulator -include /Users/cdann/Development/slidenavigation/Build/Intermediates/PrecompiledHeaders/slidenavigation-Prefix-cszzruhhrcnytrekbbevipyxiqta/slidenavigation-Prefix.pch -MMD -MT dependencies -MF /Users/cdann/Development/slidenavigation/Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/StaticAnalyzer/slidenavigation/slidenavigation/normal/i386/AppDelegate.d --analyze /Users/cdann/Development/slidenavigation/slidenavigation/AppDelegate.m -o /Users/cdann/Development/slidenavigation/Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/StaticAnalyzer/slidenavigation/slidenavigation/normal/i386/AppDelegate.plist36"D93E1886-FDB9-4280-9314-A27563D127F5-
-
-CAnalyze /Users/cdann/Development/slidenavigation/slidenavigation/SlideNavigationFlowLayout.m
-s385027101.051076
-e385027101.111451
-r1
-xAnalyze
-x/Users/cdann/Development/slidenavigation/slidenavigation/SlideNavigationFlowLayout.m
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Analyze /Users/cdann/Development/slidenavigation/slidenavigation/SlideNavigationFlowLayout.m583c0d1d0cf3b641^d1951c1d0cf3b641^---0#0#0#-19%DVTDocumentLocation2@100"file://localhost/Users/cdann/Development/slidenavigation/slidenavigation/SlideNavigationFlowLayout.m0000000000000000^4154"Analyze slidenavigation/SlideNavigationFlowLayout.m    cd /Users/cdann/Development/slidenavigation    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -Xclang -analyzer-output=plist-multi-file -Xclang -analyzer-checker -Xclang security.insecureAPI.UncheckedReturn -Xclang -analyzer-checker -Xclang security.insecureAPI.getpw -Xclang -analyzer-checker -Xclang security.insecureAPI.gets -Xclang -analyzer-checker -Xclang security.insecureAPI.mkstemp -Xclang -analyzer-checker -Xclang security.insecureAPI.mktemp -Xclang -analyzer-disable-checker -Xclang security.insecureAPI.rand -Xclang -analyzer-disable-checker -Xclang security.insecureAPI.strcpy -Xclang -analyzer-checker -Xclang security.insecureAPI.vfork -mios-simulator-version-min=6.1 -iquote /Users/cdann/Development/slidenavigation/Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/slidenavigation-generated-files.hmap -I/Users/cdann/Development/slidenavigation/Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/slidenavigation-own-target-headers.hmap -I/Users/cdann/Development/slidenavigation/Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/slidenavigation-all-target-headers.hmap -iquote /Users/cdann/Development/slidenavigation/Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/slidenavigation-project-headers.hmap -I/Users/cdann/Development/slidenavigation/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/cdann/Development/slidenavigation/Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/DerivedSources/i386 -I/Users/cdann/Development/slidenavigation/Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/DerivedSources -F/Users/cdann/Development/slidenavigation/Build/Products/Debug-iphonesimulator -include /Users/cdann/Development/slidenavigation/Build/Intermediates/PrecompiledHeaders/slidenavigation-Prefix-cszzruhhrcnytrekbbevipyxiqta/slidenavigation-Prefix.pch -MMD -MT dependencies -MF /Users/cdann/Development/slidenavigation/Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/StaticAnalyzer/slidenavigation/slidenavigation/normal/i386/SlideNavigationFlowLayout.d --analyze /Users/cdann/Development/slidenavigation/slidenavigation/SlideNavigationFlowLayout.m -o /Users/cdann/Development/slidenavigation/Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/StaticAnalyzer/slidenavigation/slidenavigation/normal/i386/SlideNavigationFlowLayout.plist36"FB80702A-C51A-4DFD-85EC-A611918F7AD0-
-
-CAnalyze /Users/cdann/Development/slidenavigation/slidenavigation/SlideNavigationViewController.m
-s385027101.112752
-e385027101.152960
-r1
-xAnalyze
-x/Users/cdann/Development/slidenavigation/slidenavigation/SlideNavigationViewController.m
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Analyze /Users/cdann/Development/slidenavigation/slidenavigation/SlideNavigationViewController.m53071d1d0cf3b641^5228271d0cf3b641^---0#0#0#-19%DVTDocumentLocation2@104"file://localhost/Users/cdann/Development/slidenavigation/slidenavigation/SlideNavigationViewController.m0000000000000000^4170"Analyze slidenavigation/SlideNavigationViewController.m    cd /Users/cdann/Development/slidenavigation    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -Xclang -analyzer-output=plist-multi-file -Xclang -analyzer-checker -Xclang security.insecureAPI.UncheckedReturn -Xclang -analyzer-checker -Xclang security.insecureAPI.getpw -Xclang -analyzer-checker -Xclang security.insecureAPI.gets -Xclang -analyzer-checker -Xclang security.insecureAPI.mkstemp -Xclang -analyzer-checker -Xclang security.insecureAPI.mktemp -Xclang -analyzer-disable-checker -Xclang security.insecureAPI.rand -Xclang -analyzer-disable-checker -Xclang security.insecureAPI.strcpy -Xclang -analyzer-checker -Xclang security.insecureAPI.vfork -mios-simulator-version-min=6.1 -iquote /Users/cdann/Development/slidenavigation/Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/slidenavigation-generated-files.hmap -I/Users/cdann/Development/slidenavigation/Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/slidenavigation-own-target-headers.hmap -I/Users/cdann/Development/slidenavigation/Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/slidenavigation-all-target-headers.hmap -iquote /Users/cdann/Development/slidenavigation/Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/slidenavigation-project-headers.hmap -I/Users/cdann/Development/slidenavigation/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/cdann/Development/slidenavigation/Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/DerivedSources/i386 -I/Users/cdann/Development/slidenavigation/Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/DerivedSources -F/Users/cdann/Development/slidenavigation/Build/Products/Debug-iphonesimulator -include /Users/cdann/Development/slidenavigation/Build/Intermediates/PrecompiledHeaders/slidenavigation-Prefix-cszzruhhrcnytrekbbevipyxiqta/slidenavigation-Prefix.pch -MMD -MT dependencies -MF /Users/cdann/Development/slidenavigation/Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/StaticAnalyzer/slidenavigation/slidenavigation/normal/i386/SlideNavigationViewController.d --analyze /Users/cdann/Development/slidenavigation/slidenavigation/SlideNavigationViewController.m -o /Users/cdann/Development/slidenavigation/Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/StaticAnalyzer/slidenavigation/slidenavigation/normal/i386/SlideNavigationViewController.plist36"CC6B50C0-8E55-49B2-A33D-E44BD6876749-
-
-CAnalyze /Users/cdann/Development/slidenavigation/slidenavigation/ViewController.m
-s385027101.050848
-e385027101.126357
-r1
-xAnalyze
-x/Users/cdann/Development/slidenavigation/slidenavigation/ViewController.m
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Analyze /Users/cdann/Development/slidenavigation/slidenavigation/ViewController.me42f0d1d0cf3b641^8a58201d0cf3b641^---0#0#0#-19%DVTDocumentLocation2@89"file://localhost/Users/cdann/Development/slidenavigation/slidenavigation/ViewController.m0000000000000000^4110"Analyze slidenavigation/ViewController.m    cd /Users/cdann/Development/slidenavigation    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -Xclang -analyzer-output=plist-multi-file -Xclang -analyzer-checker -Xclang security.insecureAPI.UncheckedReturn -Xclang -analyzer-checker -Xclang security.insecureAPI.getpw -Xclang -analyzer-checker -Xclang security.insecureAPI.gets -Xclang -analyzer-checker -Xclang security.insecureAPI.mkstemp -Xclang -analyzer-checker -Xclang security.insecureAPI.mktemp -Xclang -analyzer-disable-checker -Xclang security.insecureAPI.rand -Xclang -analyzer-disable-checker -Xclang security.insecureAPI.strcpy -Xclang -analyzer-checker -Xclang security.insecureAPI.vfork -mios-simulator-version-min=6.1 -iquote /Users/cdann/Development/slidenavigation/Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/slidenavigation-generated-files.hmap -I/Users/cdann/Development/slidenavigation/Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/slidenavigation-own-target-headers.hmap -I/Users/cdann/Development/slidenavigation/Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/slidenavigation-all-target-headers.hmap -iquote /Users/cdann/Development/slidenavigation/Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/slidenavigation-project-headers.hmap -I/Users/cdann/Development/slidenavigation/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/cdann/Development/slidenavigation/Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/DerivedSources/i386 -I/Users/cdann/Development/slidenavigation/Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/DerivedSources -F/Users/cdann/Development/slidenavigation/Build/Products/Debug-iphonesimulator -include /Users/cdann/Development/slidenavigation/Build/Intermediates/PrecompiledHeaders/slidenavigation-Prefix-cszzruhhrcnytrekbbevipyxiqta/slidenavigation-Prefix.pch -MMD -MT dependencies -MF /Users/cdann/Development/slidenavigation/Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/StaticAnalyzer/slidenavigation/slidenavigation/normal/i386/ViewController.d --analyze /Users/cdann/Development/slidenavigation/slidenavigation/ViewController.m -o /Users/cdann/Development/slidenavigation/Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/StaticAnalyzer/slidenavigation/slidenavigation/normal/i386/ViewController.plist36"805B5F69-E296-4B65-A782-A43F891D3036-
-
-CAnalyze /Users/cdann/Development/slidenavigation/slidenavigation/main.m
-s385027101.050853
-e385027101.130593
-r1
-xAnalyze
-x/Users/cdann/Development/slidenavigation/slidenavigation/main.m
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Analyze /Users/cdann/Development/slidenavigation/slidenavigation/main.mdc2d0d1d0cf3b641^a86f211d0cf3b641^---0#0#0#-19%DVTDocumentLocation2@79"file://localhost/Users/cdann/Development/slidenavigation/slidenavigation/main.m0000000000000000^4070"Analyze slidenavigation/main.m    cd /Users/cdann/Development/slidenavigation    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -Xclang -analyzer-output=plist-multi-file -Xclang -analyzer-checker -Xclang security.insecureAPI.UncheckedReturn -Xclang -analyzer-checker -Xclang security.insecureAPI.getpw -Xclang -analyzer-checker -Xclang security.insecureAPI.gets -Xclang -analyzer-checker -Xclang security.insecureAPI.mkstemp -Xclang -analyzer-checker -Xclang security.insecureAPI.mktemp -Xclang -analyzer-disable-checker -Xclang security.insecureAPI.rand -Xclang -analyzer-disable-checker -Xclang security.insecureAPI.strcpy -Xclang -analyzer-checker -Xclang security.insecureAPI.vfork -mios-simulator-version-min=6.1 -iquote /Users/cdann/Development/slidenavigation/Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/slidenavigation-generated-files.hmap -I/Users/cdann/Development/slidenavigation/Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/slidenavigation-own-target-headers.hmap -I/Users/cdann/Development/slidenavigation/Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/slidenavigation-all-target-headers.hmap -iquote /Users/cdann/Development/slidenavigation/Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/slidenavigation-project-headers.hmap -I/Users/cdann/Development/slidenavigation/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/cdann/Development/slidenavigation/Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/DerivedSources/i386 -I/Users/cdann/Development/slidenavigation/Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/DerivedSources -F/Users/cdann/Development/slidenavigation/Build/Products/Debug-iphonesimulator -include /Users/cdann/Development/slidenavigation/Build/Intermediates/PrecompiledHeaders/slidenavigation-Prefix-cszzruhhrcnytrekbbevipyxiqta/slidenavigation-Prefix.pch -MMD -MT dependencies -MF /Users/cdann/Development/slidenavigation/Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/StaticAnalyzer/slidenavigation/slidenavigation/normal/i386/main.d --analyze /Users/cdann/Development/slidenavigation/slidenavigation/main.m -o /Users/cdann/Development/slidenavigation/Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/StaticAnalyzer/slidenavigation/slidenavigation/normal/i386/main.plist36"34409E1A-02AE-463E-9645-5FE88032BF23-
-
-CBuild AST from /Users/cdann/Development/slidenavigation/slidenavigation/AppDelegate.m
-r0
-
-CBuild AST from /Users/cdann/Development/slidenavigation/slidenavigation/CellView.m
-r0
-
-CBuild AST from /Users/cdann/Development/slidenavigation/slidenavigation/SlideNavigationFlowLayout.m
-r0
-
-CBuild AST from /Users/cdann/Development/slidenavigation/slidenavigation/SlideNavigationViewController.m
-r0
-
-CBuild AST from /Users/cdann/Development/slidenavigation/slidenavigation/ViewController.m
-r0
-
-CBuild AST from /Users/cdann/Development/slidenavigation/slidenavigation/ViewHelpers.m
-r0
-
-CBuild AST from /Users/cdann/Development/slidenavigation/slidenavigation/main.m
-r0
-
-CCheck dependencies
-r0
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesd881c3a3a0f3b641^793ec7a3a0f3b641^---0#1#0#--18"Check dependencies36"B5E5DEC2-D3FA-4BCF-9AE0-12A38C84BB11-
-
-CCompileC Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/Objects-normal/i386/AppDelegate.o /Users/cdann/Development/slidenavigation/slidenavigation/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s385024765.368371
-e385024765.536201
-r1
-xCompileC
-xBuild/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/Objects-normal/i386/AppDelegate.o
-x/Users/cdann/Development/slidenavigation/slidenavigation/AppDelegate.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Compile /Users/cdann/Development/slidenavigation/slidenavigation/AppDelegate.m8eae5efd02f3b641^af4389fd02f3b641^---0#0#0#-19%DVTDocumentLocation2@86"file://localhost/Users/cdann/Development/slidenavigation/slidenavigation/AppDelegate.m0000000000000000^3827"CompileC Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/Objects-normal/i386/AppDelegate.o slidenavigation/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cdann/Development/slidenavigation    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/cdann/Development/slidenavigation/Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/slidenavigation-generated-files.hmap -I/Users/cdann/Development/slidenavigation/Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/slidenavigation-own-target-headers.hmap -I/Users/cdann/Development/slidenavigation/Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/slidenavigation-all-target-headers.hmap -iquote /Users/cdann/Development/slidenavigation/Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/slidenavigation-project-headers.hmap -I/Users/cdann/Development/slidenavigation/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/cdann/Development/slidenavigation/Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/DerivedSources/i386 -I/Users/cdann/Development/slidenavigation/Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/DerivedSources -F/Users/cdann/Development/slidenavigation/Build/Products/Debug-iphonesimulator -include /Users/cdann/Development/slidenavigation/Build/Intermediates/PrecompiledHeaders/slidenavigation-Prefix-awigtaodbkpgofbftzszwhdscimx/slidenavigation-Prefix.pch -MMD -MT dependencies -MF /Users/cdann/Development/slidenavigation/Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/cdann/Development/slidenavigation/Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/Objects-normal/i386/AppDelegate.dia -c /Users/cdann/Development/slidenavigation/slidenavigation/AppDelegate.m -o /Users/cdann/Development/slidenavigation/Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/Objects-normal/i386/AppDelegate.o36"770114FA-EAB5-4338-A899-AC7A9EFD165B-
-
-CCompileC Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/Objects-normal/i386/CellView.o /Users/cdann/Development/slidenavigation/slidenavigation/CellView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s385061940.664180
-e385061940.763125
-r1
-xCompileC
-xBuild/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/Objects-normal/i386/CellView.o
-x/Users/cdann/Development/slidenavigation/slidenavigation/CellView.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Compile /Users/cdann/Development/slidenavigation/slidenavigation/CellView.m2827aa3494f3b641^c39dc33494f3b641^---0#0#0#-19%DVTDocumentLocation2@83"file://localhost/Users/cdann/Development/slidenavigation/slidenavigation/CellView.m0000000000000000^3809"CompileC Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/Objects-normal/i386/CellView.o slidenavigation/CellView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cdann/Development/slidenavigation    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/cdann/Development/slidenavigation/Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/slidenavigation-generated-files.hmap -I/Users/cdann/Development/slidenavigation/Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/slidenavigation-own-target-headers.hmap -I/Users/cdann/Development/slidenavigation/Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/slidenavigation-all-target-headers.hmap -iquote /Users/cdann/Development/slidenavigation/Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/slidenavigation-project-headers.hmap -I/Users/cdann/Development/slidenavigation/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/cdann/Development/slidenavigation/Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/DerivedSources/i386 -I/Users/cdann/Development/slidenavigation/Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/DerivedSources -F/Users/cdann/Development/slidenavigation/Build/Products/Debug-iphonesimulator -include /Users/cdann/Development/slidenavigation/Build/Intermediates/PrecompiledHeaders/slidenavigation-Prefix-awigtaodbkpgofbftzszwhdscimx/slidenavigation-Prefix.pch -MMD -MT dependencies -MF /Users/cdann/Development/slidenavigation/Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/Objects-normal/i386/CellView.d --serialize-diagnostics /Users/cdann/Development/slidenavigation/Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/Objects-normal/i386/CellView.dia -c /Users/cdann/Development/slidenavigation/slidenavigation/CellView.m -o /Users/cdann/Development/slidenavigation/Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/Objects-normal/i386/CellView.o36"5CECD349-FDD4-4D8B-8595-5150C58885FF-
-
-CCompileC Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/Objects-normal/i386/SlideNavigationFlowLayout.o /Users/cdann/Development/slidenavigation/slidenavigation/SlideNavigationFlowLayout.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s385060118.768507
-e385060119.291668
-r1
-xCompileC
-xBuild/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/Objects-normal/i386/SlideNavigationFlowLayout.o
-x/Users/cdann/Development/slidenavigation/slidenavigation/SlideNavigationFlowLayout.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Compile /Users/cdann/Development/slidenavigation/slidenavigation/SlideNavigationFlowLayout.m81e9c4168df3b641^4bae4a178df3b641^---0#0#0#-19%DVTDocumentLocation2@100"file://localhost/Users/cdann/Development/slidenavigation/slidenavigation/SlideNavigationFlowLayout.m0000000000000000^3911"CompileC Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/Objects-normal/i386/SlideNavigationFlowLayout.o slidenavigation/SlideNavigationFlowLayout.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cdann/Development/slidenavigation    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/cdann/Development/slidenavigation/Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/slidenavigation-generated-files.hmap -I/Users/cdann/Development/slidenavigation/Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/slidenavigation-own-target-headers.hmap -I/Users/cdann/Development/slidenavigation/Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/slidenavigation-all-target-headers.hmap -iquote /Users/cdann/Development/slidenavigation/Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/slidenavigation-project-headers.hmap -I/Users/cdann/Development/slidenavigation/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/cdann/Development/slidenavigation/Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/DerivedSources/i386 -I/Users/cdann/Development/slidenavigation/Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/DerivedSources -F/Users/cdann/Development/slidenavigation/Build/Products/Debug-iphonesimulator -include /Users/cdann/Development/slidenavigation/Build/Intermediates/PrecompiledHeaders/slidenavigation-Prefix-awigtaodbkpgofbftzszwhdscimx/slidenavigation-Prefix.pch -MMD -MT dependencies -MF /Users/cdann/Development/slidenavigation/Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/Objects-normal/i386/SlideNavigationFlowLayout.d --serialize-diagnostics /Users/cdann/Development/slidenavigation/Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/Objects-normal/i386/SlideNavigationFlowLayout.dia -c /Users/cdann/Development/slidenavigation/slidenavigation/SlideNavigationFlowLayout.m -o /Users/cdann/Development/slidenavigation/Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/Objects-normal/i386/SlideNavigationFlowLayout.o36"DC2CA4CD-F02E-4F44-BA27-374D2EA947C2-
-
-CCompileC Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/Objects-normal/i386/SlideNavigationViewController.o /Users/cdann/Development/slidenavigation/slidenavigation/SlideNavigationViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s385061222.673043
-e385061222.781633
-r1
-xCompileC
-xBuild/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/Objects-normal/i386/SlideNavigationViewController.o
-x/Users/cdann/Development/slidenavigation/slidenavigation/SlideNavigationViewController.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Compile /Users/cdann/Development/slidenavigation/slidenavigation/SlideNavigationViewController.m9469ac6691f3b641^9318c86691f3b641^---0#0#0#-19%DVTDocumentLocation2@104"file://localhost/Users/cdann/Development/slidenavigation/slidenavigation/SlideNavigationViewController.m0000000000000000^3935"CompileC Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/Objects-normal/i386/SlideNavigationViewController.o slidenavigation/SlideNavigationViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cdann/Development/slidenavigation    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/cdann/Development/slidenavigation/Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/slidenavigation-generated-files.hmap -I/Users/cdann/Development/slidenavigation/Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/slidenavigation-own-target-headers.hmap -I/Users/cdann/Development/slidenavigation/Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/slidenavigation-all-target-headers.hmap -iquote /Users/cdann/Development/slidenavigation/Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/slidenavigation-project-headers.hmap -I/Users/cdann/Development/slidenavigation/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/cdann/Development/slidenavigation/Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/DerivedSources/i386 -I/Users/cdann/Development/slidenavigation/Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/DerivedSources -F/Users/cdann/Development/slidenavigation/Build/Products/Debug-iphonesimulator -include /Users/cdann/Development/slidenavigation/Build/Intermediates/PrecompiledHeaders/slidenavigation-Prefix-awigtaodbkpgofbftzszwhdscimx/slidenavigation-Prefix.pch -MMD -MT dependencies -MF /Users/cdann/Development/slidenavigation/Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/Objects-normal/i386/SlideNavigationViewController.d --serialize-diagnostics /Users/cdann/Development/slidenavigation/Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/Objects-normal/i386/SlideNavigationViewController.dia -c /Users/cdann/Development/slidenavigation/slidenavigation/SlideNavigationViewController.m -o /Users/cdann/Development/slidenavigation/Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/Objects-normal/i386/SlideNavigationViewController.o36"4C12E831-FFD7-4C85-B28D-9B8591E59A7F-
-
-CCompileC Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/Objects-normal/i386/ViewController.o /Users/cdann/Development/slidenavigation/slidenavigation/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s385024765.368351
-e385024765.531371
-r1
-xCompileC
-xBuild/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/Objects-normal/i386/ViewController.o
-x/Users/cdann/Development/slidenavigation/slidenavigation/ViewController.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Compile /Users/cdann/Development/slidenavigation/slidenavigation/ViewController.mbf7c5efd02f3b641^f20688fd02f3b641^---0#0#0#-19%DVTDocumentLocation2@89"file://localhost/Users/cdann/Development/slidenavigation/slidenavigation/ViewController.m0000000000000000^3845"CompileC Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/Objects-normal/i386/ViewController.o slidenavigation/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cdann/Development/slidenavigation    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/cdann/Development/slidenavigation/Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/slidenavigation-generated-files.hmap -I/Users/cdann/Development/slidenavigation/Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/slidenavigation-own-target-headers.hmap -I/Users/cdann/Development/slidenavigation/Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/slidenavigation-all-target-headers.hmap -iquote /Users/cdann/Development/slidenavigation/Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/slidenavigation-project-headers.hmap -I/Users/cdann/Development/slidenavigation/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/cdann/Development/slidenavigation/Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/DerivedSources/i386 -I/Users/cdann/Development/slidenavigation/Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/DerivedSources -F/Users/cdann/Development/slidenavigation/Build/Products/Debug-iphonesimulator -include /Users/cdann/Development/slidenavigation/Build/Intermediates/PrecompiledHeaders/slidenavigation-Prefix-awigtaodbkpgofbftzszwhdscimx/slidenavigation-Prefix.pch -MMD -MT dependencies -MF /Users/cdann/Development/slidenavigation/Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/Objects-normal/i386/ViewController.d --serialize-diagnostics /Users/cdann/Development/slidenavigation/Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/Objects-normal/i386/ViewController.dia -c /Users/cdann/Development/slidenavigation/slidenavigation/ViewController.m -o /Users/cdann/Development/slidenavigation/Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/Objects-normal/i386/ViewController.o36"A167C545-9958-4EB1-A28A-83EE45BAFF80-
-
-CCompileC Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/Objects-normal/i386/ViewHelpers.o /Users/cdann/Development/slidenavigation/slidenavigation/ViewHelpers.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s385062304.378417
-e385062304.469917
-r1
-xCompileC
-xBuild/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/Objects-normal/i386/ViewHelpers.o
-x/Users/cdann/Development/slidenavigation/slidenavigation/ViewHelpers.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Compile /Users/cdann/Development/slidenavigation/slidenavigation/ViewHelpers.m5c0161a095f3b641^384c78a095f3b641^---0#0#0#-19%DVTDocumentLocation2@86"file://localhost/Users/cdann/Development/slidenavigation/slidenavigation/ViewHelpers.m0000000000000000^3827"CompileC Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/Objects-normal/i386/ViewHelpers.o slidenavigation/ViewHelpers.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cdann/Development/slidenavigation    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/cdann/Development/slidenavigation/Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/slidenavigation-generated-files.hmap -I/Users/cdann/Development/slidenavigation/Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/slidenavigation-own-target-headers.hmap -I/Users/cdann/Development/slidenavigation/Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/slidenavigation-all-target-headers.hmap -iquote /Users/cdann/Development/slidenavigation/Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/slidenavigation-project-headers.hmap -I/Users/cdann/Development/slidenavigation/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/cdann/Development/slidenavigation/Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/DerivedSources/i386 -I/Users/cdann/Development/slidenavigation/Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/DerivedSources -F/Users/cdann/Development/slidenavigation/Build/Products/Debug-iphonesimulator -include /Users/cdann/Development/slidenavigation/Build/Intermediates/PrecompiledHeaders/slidenavigation-Prefix-awigtaodbkpgofbftzszwhdscimx/slidenavigation-Prefix.pch -MMD -MT dependencies -MF /Users/cdann/Development/slidenavigation/Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/Objects-normal/i386/ViewHelpers.d --serialize-diagnostics /Users/cdann/Development/slidenavigation/Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/Objects-normal/i386/ViewHelpers.dia -c /Users/cdann/Development/slidenavigation/slidenavigation/ViewHelpers.m -o /Users/cdann/Development/slidenavigation/Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/Objects-normal/i386/ViewHelpers.o36"5C52A568-65B4-487D-B757-42AE6A172170-
-
-CCompileC Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/Objects-normal/i386/main.o /Users/cdann/Development/slidenavigation/slidenavigation/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s385024765.368354
-e385024765.528316
-r1
-xCompileC
-xBuild/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/Objects-normal/i386/main.o
-x/Users/cdann/Development/slidenavigation/slidenavigation/main.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Compile /Users/cdann/Development/slidenavigation/slidenavigation/main.m77855efd02f3b641^60ac87fd02f3b641^---0#0#0#-19%DVTDocumentLocation2@79"file://localhost/Users/cdann/Development/slidenavigation/slidenavigation/main.m0000000000000000^3785"CompileC Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/Objects-normal/i386/main.o slidenavigation/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cdann/Development/slidenavigation    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/cdann/Development/slidenavigation/Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/slidenavigation-generated-files.hmap -I/Users/cdann/Development/slidenavigation/Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/slidenavigation-own-target-headers.hmap -I/Users/cdann/Development/slidenavigation/Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/slidenavigation-all-target-headers.hmap -iquote /Users/cdann/Development/slidenavigation/Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/slidenavigation-project-headers.hmap -I/Users/cdann/Development/slidenavigation/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/cdann/Development/slidenavigation/Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/DerivedSources/i386 -I/Users/cdann/Development/slidenavigation/Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/DerivedSources -F/Users/cdann/Development/slidenavigation/Build/Products/Debug-iphonesimulator -include /Users/cdann/Development/slidenavigation/Build/Intermediates/PrecompiledHeaders/slidenavigation-Prefix-awigtaodbkpgofbftzszwhdscimx/slidenavigation-Prefix.pch -MMD -MT dependencies -MF /Users/cdann/Development/slidenavigation/Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/cdann/Development/slidenavigation/Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/Objects-normal/i386/main.dia -c /Users/cdann/Development/slidenavigation/slidenavigation/main.m -o /Users/cdann/Development/slidenavigation/Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/Objects-normal/i386/main.o36"CBC89FAD-7AD4-4A37-9C98-388ED627B1A4-
-
-CCompileStoryboard /Users/cdann/Development/slidenavigation/slidenavigation/en.lproj/MainStoryboard.storyboard
-s385065123.812238
-e385065123.903136
-r1
-xCompileStoryboard
-x/Users/cdann/Development/slidenavigation/slidenavigation/en.lproj/MainStoryboard.storyboard
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"CompileStoryboard slidenavigation/en.lproj/MainStoryboard.storyboard0c05d0a3a0f3b641^643be7a3a0f3b641^---0#0#0#-19%DVTDocumentLocation2@107"file://localhost/Users/cdann/Development/slidenavigation/slidenavigation/en.lproj/MainStoryboard.storyboard0000000000000000^983"CompileStoryboard slidenavigation/en.lproj/MainStoryboard.storyboard    cd /Users/cdann/Development/slidenavigation    setenv IBSC_MINIMUM_COMPATIBILITY_VERSION 6.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/cdann/Development/slidenavigation/Build/Products/Debug-iphonesimulator/slidenavigation.app/en.lproj/MainStoryboard.storyboardc /Users/cdann/Development/slidenavigation/slidenavigation/en.lproj/MainStoryboard.storyboard --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk36"AEABEC97-F07F-47FA-A67C-E106D3F33B77-
-
-CCompileXIB /Users/cdann/Development/slidenavigation/slidenavigation/CellView.xib
-s385064988.777311
-e385064988.961620
-r1
-xCompileXIB
-x/Users/cdann/Development/slidenavigation/slidenavigation/CellView.xib
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Compiling /Users/cdann/Development/slidenavigation/slidenavigation/CellView.xib622cc71ca0f3b641^992cf61ca0f3b641^---0#0#0#-19%DVTDocumentLocation2@85"file://localhost/Users/cdann/Development/slidenavigation/slidenavigation/CellView.xib0000000000000000^908"CompileXIB slidenavigation/CellView.xib    cd /Users/cdann/Development/slidenavigation    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 6.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/cdann/Development/slidenavigation/Build/Products/Debug-iphonesimulator/slidenavigation.app/CellView.nib /Users/cdann/Development/slidenavigation/slidenavigation/CellView.xib --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk36"C07C0CAF-BE95-4DF9-9C57-1BA105D3D81D-
-
-CCopyStringsFile /Users/cdann/Development/slidenavigation/Build/Products/Debug-iphonesimulator/slidenavigation.app/en.lproj/InfoPlist.strings slidenavigation/en.lproj/InfoPlist.strings
-s385024765.829945
-e385024765.835082
-r1
-xCopyStringsFile
-x/Users/cdann/Development/slidenavigation/Build/Products/Debug-iphonesimulator/slidenavigation.app/en.lproj/InfoPlist.strings
-xslidenavigation/en.lproj/InfoPlist.strings
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Copy slidenavigation/en.lproj/InfoPlist.strings93a7d4fd02f3b641^bdc7d5fd02f3b641^---0#0#0#-19%DVTDocumentLocation2@99"file://localhost/Users/cdann/Development/slidenavigation/slidenavigation/en.lproj/InfoPlist.strings0000000000000000^629"CopyStringsFile Build/Products/Debug-iphonesimulator/slidenavigation.app/en.lproj/InfoPlist.strings slidenavigation/en.lproj/InfoPlist.strings    cd /Users/cdann/Development/slidenavigation    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/cdann/Development/slidenavigation/Build/Products/Debug-iphonesimulator/slidenavigation.app/en.lproj -- slidenavigation/en.lproj/InfoPlist.strings36"B15A3FFF-038A-4E86-888D-64B7BE82F20A-
-
-CCpResource slidenavigation/Default-568h@2x.png Build/Products/Debug-iphonesimulator/slidenavigation.app/Default-568h@2x.png
-s385024765.830351
-e385024765.836912
-r1
-xCpResource
-xslidenavigation/Default-568h@2x.png
-xBuild/Products/Debug-iphonesimulator/slidenavigation.app/Default-568h@2x.png
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Copy Build/Products/Debug-iphonesimulator/slidenavigation.app/Default-568h@2x.png4ab4d4fd02f3b641^363fd6fd02f3b641^---0#0#0#-19%DVTDocumentLocation2@133"file://localhost/Users/cdann/Development/slidenavigation/Build/Products/Debug-iphonesimulator/slidenavigation.app/Default-568h@2x.png000000000080d041^660"CpResource "slidenavigation/Default-568h@2x.png" "Build/Products/Debug-iphonesimulator/slidenavigation.app/Default-568h@2x.png"    cd /Users/cdann/Development/slidenavigation    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/cdann/Development/slidenavigation/slidenavigation/Default-568h@2x.png" /Users/cdann/Development/slidenavigation/Build/Products/Debug-iphonesimulator/slidenavigation.app36"445A041C-FE6D-4772-8B08-DC5E0142EF2D-
-
-CCpResource slidenavigation/Default.png Build/Products/Debug-iphonesimulator/slidenavigation.app/Default.png
-s385024765.830001
-e385024765.834550
-r1
-xCpResource
-xslidenavigation/Default.png
-xBuild/Products/Debug-iphonesimulator/slidenavigation.app/Default.png
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Copy Build/Products/Debug-iphonesimulator/slidenavigation.app/Default.png0aa0d4fd02f3b641^fbadd5fd02f3b641^---0#0#0#-19%DVTDocumentLocation2@125"file://localhost/Users/cdann/Development/slidenavigation/Build/Products/Debug-iphonesimulator/slidenavigation.app/Default.png000000000080d041^630"CpResource slidenavigation/Default.png Build/Products/Debug-iphonesimulator/slidenavigation.app/Default.png    cd /Users/cdann/Development/slidenavigation    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/cdann/Development/slidenavigation/slidenavigation/Default.png /Users/cdann/Development/slidenavigation/Build/Products/Debug-iphonesimulator/slidenavigation.app36"FC8ACEAD-1F1C-444D-9721-79C63FB5BAB7-
-
-CCpResource slidenavigation/Default@2x.png Build/Products/Debug-iphonesimulator/slidenavigation.app/Default@2x.png
-s385024765.830334
-e385024765.835602
-r1
-xCpResource
-xslidenavigation/Default@2x.png
-xBuild/Products/Debug-iphonesimulator/slidenavigation.app/Default@2x.png
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Copy Build/Products/Debug-iphonesimulator/slidenavigation.app/Default@2x.png58a9d4fd02f3b641^3ae9d5fd02f3b641^---0#0#0#-19%DVTDocumentLocation2@128"file://localhost/Users/cdann/Development/slidenavigation/Build/Products/Debug-iphonesimulator/slidenavigation.app/Default@2x.png000000000080d041^645"CpResource "slidenavigation/Default@2x.png" "Build/Products/Debug-iphonesimulator/slidenavigation.app/Default@2x.png"    cd /Users/cdann/Development/slidenavigation    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/cdann/Development/slidenavigation/slidenavigation/Default@2x.png" /Users/cdann/Development/slidenavigation/Build/Products/Debug-iphonesimulator/slidenavigation.app36"D82CC3E0-412E-490C-A0CD-8289D0E695FF-
-
-CGenerateDSYMFile /Users/cdann/Development/slidenavigation/Build/Products/Debug-iphonesimulator/slidenavigation.app.dSYM /Users/cdann/Development/slidenavigation/Build/Products/Debug-iphonesimulator/slidenavigation.app/slidenavigation
-s385062304.514819
-e385062304.544976
-r1
-xGenerateDSYMFile
-x/Users/cdann/Development/slidenavigation/Build/Products/Debug-iphonesimulator/slidenavigation.app.dSYM
-x/Users/cdann/Development/slidenavigation/Build/Products/Debug-iphonesimulator/slidenavigation.app/slidenavigation
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"Generate /Users/cdann/Development/slidenavigation/Build/Products/Debug-iphonesimulator/slidenavigation.app.dSYM22e183a095f3b641^3d828ba095f3b641^---0#0#0#-19%DVTDocumentLocation2@119"file://localhost/Users/cdann/Development/slidenavigation/Build/Products/Debug-iphonesimulator/slidenavigation.app.dSYM/0000000000000000^715"GenerateDSYMFile Build/Products/Debug-iphonesimulator/slidenavigation.app.dSYM Build/Products/Debug-iphonesimulator/slidenavigation.app/slidenavigation    cd /Users/cdann/Development/slidenavigation    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/cdann/Development/slidenavigation/Build/Products/Debug-iphonesimulator/slidenavigation.app/slidenavigation -o /Users/cdann/Development/slidenavigation/Build/Products/Debug-iphonesimulator/slidenavigation.app.dSYM36"63ECEEEB-80E6-4195-962A-1A03CDDF3163-
-
-CLd /Users/cdann/Development/slidenavigation/Build/Products/Debug-iphonesimulator/slidenavigation.app/slidenavigation normal i386
-s385062304.476362
-e385062304.507936
-r1
-xLd
-x/Users/cdann/Development/slidenavigation/Build/Products/Debug-iphonesimulator/slidenavigation.app/slidenavigation
-xnormal
-xi386
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection118"Link /Users/cdann/Development/slidenavigation/Build/Products/Debug-iphonesimulator/slidenavigation.app/slidenavigation51167aa095f3b641^e60782a095f3b641^---0#0#0#--1285"Ld Build/Products/Debug-iphonesimulator/slidenavigation.app/slidenavigation normal i386    cd /Users/cdann/Development/slidenavigation    setenv IPHONEOS_DEPLOYMENT_TARGET 6.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -L/Users/cdann/Development/slidenavigation/Build/Products/Debug-iphonesimulator -F/Users/cdann/Development/slidenavigation/Build/Products/Debug-iphonesimulator -filelist /Users/cdann/Development/slidenavigation/Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/Objects-normal/i386/slidenavigation.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=6.1 -framework QuartzCore -framework UIKit -framework Foundation -framework CoreGraphics -o /Users/cdann/Development/slidenavigation/Build/Products/Debug-iphonesimulator/slidenavigation.app/slidenavigation36"3EE6AEAD-7FAC-49AD-A5AC-51206807F7B3-
-
-CProcessInfoPlistFile /Users/cdann/Development/slidenavigation/Build/Products/Debug-iphonesimulator/slidenavigation.app/Info.plist slidenavigation/slidenavigation-Info.plist
-s385024764.818044
-e385024764.823085
-r1
-xProcessInfoPlistFile
-x/Users/cdann/Development/slidenavigation/Build/Products/Debug-iphonesimulator/slidenavigation.app/Info.plist
-xslidenavigation/slidenavigation-Info.plist
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection50"Process slidenavigation/slidenavigation-Info.pliste49fd1fc02f3b641^e772d7fc02f3b641^---0#0#0#-19%DVTDocumentLocation2@99"file://localhost/Users/cdann/Development/slidenavigation/slidenavigation/slidenavigation-Info.plist0000000000000000^739"ProcessInfoPlistFile Build/Products/Debug-iphonesimulator/slidenavigation.app/Info.plist slidenavigation/slidenavigation-Info.plist    cd /Users/cdann/Development/slidenavigation    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility slidenavigation/slidenavigation-Info.plist -genpkginfo /Users/cdann/Development/slidenavigation/Build/Products/Debug-iphonesimulator/slidenavigation.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/cdann/Development/slidenavigation/Build/Products/Debug-iphonesimulator/slidenavigation.app/Info.plist36"1BC969B8-D1BF-473D-9061-BBA7094E5B58-
-
-CProcessPCH /Users/cdann/Development/slidenavigation/Build/Intermediates/PrecompiledHeaders/slidenavigation-Prefix-awigtaodbkpgofbftzszwhdscimx/slidenavigation-Prefix.pch.pth slidenavigation/slidenavigation-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s385024764.830804
-e385024765.361232
-r1
-xProcessPCH
-x/Users/cdann/Development/slidenavigation/Build/Intermediates/PrecompiledHeaders/slidenavigation-Prefix-awigtaodbkpgofbftzszwhdscimx/slidenavigation-Prefix.pch.pth
-xslidenavigation/slidenavigation-Prefix.pch
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"Precompile slidenavigation/slidenavigation-Prefix.pchb7ecd4fc02f3b641^2d795cfd02f3b641^---0#0#0#-19%DVTDocumentLocation2@99"file://localhost/Users/cdann/Development/slidenavigation/slidenavigation/slidenavigation-Prefix.pch0000000000000000^3698"ProcessPCH Build/Intermediates/PrecompiledHeaders/slidenavigation-Prefix-awigtaodbkpgofbftzszwhdscimx/slidenavigation-Prefix.pch.pth slidenavigation/slidenavigation-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cdann/Development/slidenavigation    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/cdann/Development/slidenavigation/Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/slidenavigation-generated-files.hmap -I/Users/cdann/Development/slidenavigation/Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/slidenavigation-own-target-headers.hmap -I/Users/cdann/Development/slidenavigation/Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/slidenavigation-all-target-headers.hmap -iquote /Users/cdann/Development/slidenavigation/Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/slidenavigation-project-headers.hmap -I/Users/cdann/Development/slidenavigation/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/cdann/Development/slidenavigation/Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/DerivedSources/i386 -I/Users/cdann/Development/slidenavigation/Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/DerivedSources -F/Users/cdann/Development/slidenavigation/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/cdann/Development/slidenavigation/Build/Intermediates/PrecompiledHeaders/slidenavigation-Prefix-awigtaodbkpgofbftzszwhdscimx/slidenavigation-Prefix.pch.dia -c /Users/cdann/Development/slidenavigation/slidenavigation/slidenavigation-Prefix.pch -o /Users/cdann/Development/slidenavigation/Build/Intermediates/PrecompiledHeaders/slidenavigation-Prefix-awigtaodbkpgofbftzszwhdscimx/slidenavigation-Prefix.pch.pth -MMD -MT dependencies -MF /Users/cdann/Development/slidenavigation/Build/Intermediates/PrecompiledHeaders/slidenavigation-Prefix-awigtaodbkpgofbftzszwhdscimx/slidenavigation-Prefix.pch.d36"A8372A80-BF30-4421-B964-6F71ECE0C064-
-
-CProcessPCH /Users/cdann/Development/slidenavigation/Build/Intermediates/PrecompiledHeaders/slidenavigation-Prefix-cszzruhhrcnytrekbbevipyxiqta/slidenavigation-Prefix.pch.pth slidenavigation/slidenavigation-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
-s385027100.646277
-e385027101.043700
-r1
-xProcessPCH
-x/Users/cdann/Development/slidenavigation/Build/Intermediates/PrecompiledHeaders/slidenavigation-Prefix-cszzruhhrcnytrekbbevipyxiqta/slidenavigation-Prefix.pch.pth
-xslidenavigation/slidenavigation-Prefix.pch
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.analyzer
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"Precompile slidenavigation/slidenavigation-Prefix.pch9e98a51c0cf3b641^012f0b1d0cf3b641^---0#0#0#-19%DVTDocumentLocation2@99"file://localhost/Users/cdann/Development/slidenavigation/slidenavigation/slidenavigation-Prefix.pch0000000000000000^4090"ProcessPCH Build/Intermediates/PrecompiledHeaders/slidenavigation-Prefix-cszzruhhrcnytrekbbevipyxiqta/slidenavigation-Prefix.pch.pth slidenavigation/slidenavigation-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.analyzer    cd /Users/cdann/Development/slidenavigation    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -Xclang -analyzer-output=plist-multi-file -Xclang -analyzer-checker -Xclang security.insecureAPI.UncheckedReturn -Xclang -analyzer-checker -Xclang security.insecureAPI.getpw -Xclang -analyzer-checker -Xclang security.insecureAPI.gets -Xclang -analyzer-checker -Xclang security.insecureAPI.mkstemp -Xclang -analyzer-checker -Xclang security.insecureAPI.mktemp -Xclang -analyzer-disable-checker -Xclang security.insecureAPI.rand -Xclang -analyzer-disable-checker -Xclang security.insecureAPI.strcpy -Xclang -analyzer-checker -Xclang security.insecureAPI.vfork -mios-simulator-version-min=6.1 -iquote /Users/cdann/Development/slidenavigation/Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/slidenavigation-generated-files.hmap -I/Users/cdann/Development/slidenavigation/Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/slidenavigation-own-target-headers.hmap -I/Users/cdann/Development/slidenavigation/Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/slidenavigation-all-target-headers.hmap -iquote /Users/cdann/Development/slidenavigation/Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/slidenavigation-project-headers.hmap -I/Users/cdann/Development/slidenavigation/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/cdann/Development/slidenavigation/Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/DerivedSources/i386 -I/Users/cdann/Development/slidenavigation/Build/Intermediates/slidenavigation.build/Debug-iphonesimulator/slidenavigation.build/DerivedSources -F/Users/cdann/Development/slidenavigation/Build/Products/Debug-iphonesimulator -D__clang_analyzer__ -c /Users/cdann/Development/slidenavigation/slidenavigation/slidenavigation-Prefix.pch -o /Users/cdann/Development/slidenavigation/Build/Intermediates/PrecompiledHeaders/slidenavigation-Prefix-cszzruhhrcnytrekbbevipyxiqta/slidenavigation-Prefix.pch.pth -MMD -MT dependencies -MF /Users/cdann/Development/slidenavigation/Build/Intermediates/PrecompiledHeaders/slidenavigation-Prefix-cszzruhhrcnytrekbbevipyxiqta/slidenavigation-Prefix.pch.d36"32EB92E8-2411-4647-A4E1-A3D6FEDE47F2-
-
-CProcessPCH /Users/cdann/Library/Developer/Xcode/DerivedData/slidenavigation-hfevpkrlzbvntncwqyhfyarqyrhj/Index/PrecompiledHeaders/slidenavigation-Prefix-dnvernmofdgmbuewtpelhkdofjpo_ast/slidenavigation-Prefix.pch.pth slidenavigation/slidenavigation-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
-r0
-
-CTouch /Users/cdann/Development/slidenavigation/Build/Products/Debug-iphonesimulator/slidenavigation.app
-s385065123.951304
-e385065123.963803
-r1
-xTouch
-x/Users/cdann/Development/slidenavigation/Build/Products/Debug-iphonesimulator/slidenavigation.app
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Touch /Users/cdann/Development/slidenavigation/Build/Products/Debug-iphonesimulator/slidenavigation.appc633f4a3a0f3b641^2fdbf6a3a0f3b641^---0#0#0#--426"Touch Build/Products/Debug-iphonesimulator/slidenavigation.app    cd /Users/cdann/Development/slidenavigation    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/cdann/Development/slidenavigation/Build/Products/Debug-iphonesimulator/slidenavigation.app36"53F836C0-27BF-4FD1-B73A-1D2B10D74794-
-
