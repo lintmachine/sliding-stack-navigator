@@ -8,6 +8,7 @@
 
 #import "SlideNavigationViewController.h"
 #import "ViewHelpers.h"
+#import "CellView.h"
 
 @interface SlideNavigationViewController ()
 
@@ -48,6 +49,9 @@
     customLayout.sectionInset            = flowLayout.sectionInset;
     customLayout.scrollDirection         = flowLayout.scrollDirection;
     self.collectionView.collectionViewLayout = customLayout;
+    
+    self.collectionView.decelerationRate = 0.95;
+    NSLog(@"Deceleration Rate: %f", self.collectionView.decelerationRate);
 }
 
 - (CGSize) cellViewSize
@@ -97,12 +101,12 @@
 
 - (UICollectionViewCell *) collectionView:(UICollectionView *)collectionView cellForItemAtIndexPath:(NSIndexPath *)indexPath
 {
-    UICollectionViewCell* cell = [collectionView dequeueReusableCellWithReuseIdentifier:@"CellView" forIndexPath:indexPath];
+    CellView* cell = [collectionView dequeueReusableCellWithReuseIdentifier:@"CellView" forIndexPath:indexPath];
     if (indexPath.item % 2 == 0)
         cell.backgroundColor = [UIColor redColor];
     else
         cell.backgroundColor = [UIColor purpleColor];
-        
+    
     return cell;
 }
 

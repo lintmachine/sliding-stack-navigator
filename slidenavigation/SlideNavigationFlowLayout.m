@@ -51,4 +51,24 @@
     return YES;
 }
 
+- (CGPoint)targetContentOffsetForProposedContentOffset:(CGPoint)proposedContentOffset withScrollingVelocity:(CGPoint)velocity
+{
+    CGFloat offsetAdjustment = MAXFLOAT;
+    CGFloat rightEdge = proposedContentOffset.x + self.collectionView.frame.size.width;
+    
+    CGRect targetRect = CGRectMake(proposedContentOffset.x, 0.0, self.collectionView.frame.size.width, self.collectionView.frame.size.height);
+    
+    NSArray* layoutAttributes = [super layoutAttributesForElementsInRect:targetRect];
+    
+    for (UICollectionViewLayoutAttributes* attributes in layoutAttributes)
+    {
+        CGFloat itemRightEdge = attributes.center.x + (attributes.size.width / 2.0);
+        if (ABS(itemRightEdge - rightEdge) < ABS (offsetAdjustment)) {
+            offsetAdjustment = itemRightEdge - rightEdge;
+        }
+    }
+    
+    return CGPointMake(proposedContentOffset.x + offsetAdjustment, proposedContentOffset.y);
+}
+
 @end

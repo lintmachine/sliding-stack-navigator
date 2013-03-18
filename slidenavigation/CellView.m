@@ -25,6 +25,7 @@
     [ViewHelpers addShaddowWithOffset:CGSizeMake(-1, 0) radius:5.0 toView:self];
     [ViewHelpers addRoundedCornersWithRadius:10 toView:self];
 }
+
 /*
 // Only override drawRect: if you perform custom drawing.
 // An empty implementation adversely affects performance during animation.
